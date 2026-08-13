@@ -1,0 +1,6 @@
+{
+  "name": "冒險者工坊",
+  "description": "一個模擬將武器與防具精煉至 +15 最高等級的遊戲，分別使用鐵與鋁作為材料。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
